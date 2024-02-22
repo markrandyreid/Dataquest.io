@@ -1,1 +1,2 @@
-Projects from data science courses taken at Dataquest.io
+Projects and Problem Sets from Introduction to Python for Data Science course offered by Dataquest.io
+
